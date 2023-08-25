@@ -1,0 +1,6 @@
+# we want to define our input arguments ans out output arguments
+
+int32 a
+int32 b
+---
+int32 result
